@@ -1,1 +1,1 @@
-# hello-world
+I aim to make the most of every opportunity this course offers and, upon completion, to have honed my abilities in creating distinctive and useful websites, which will serve as a foundation for my next courses. I want to be skilled in creating any website's user interface and user experience (UI/UX), together with all the required features and functionality per Stake Holder's desire. As a future software developer, I also aim to be able to create interfaces that will improve my programming abilities. 
